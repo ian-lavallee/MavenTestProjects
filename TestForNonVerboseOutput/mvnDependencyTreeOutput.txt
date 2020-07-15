@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< org.example:TestForNonVerboseOutput >-----------------
+[INFO] Building TestForNonVerboseOutput 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ TestForNonVerboseOutput ---
+[INFO] org.example:TestForNonVerboseOutput:jar:1.0-SNAPSHOT
+[INFO] \- commons-logging:commons-logging:jar:1.2:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.921 s
+[INFO] Finished at: 2020-07-15T17:27:10-04:00
+[INFO] ------------------------------------------------------------------------
